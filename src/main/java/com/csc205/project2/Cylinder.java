@@ -1,6 +1,6 @@
 package com.csc205.project2;
 
-public class Cylinder {
+public class Cylinder implements ThreeDimensionalShape {
 
     private double height;
     private double radius;
